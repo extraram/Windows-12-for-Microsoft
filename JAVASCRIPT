@@ -1,0 +1,11 @@
+document.querySelector('.close-btn').addEventListener('click', function() {
+    window.close();
+});
+
+document.querySelector('.minimize-btn').addEventListener('click', function() {
+    // Your code to minimize the window
+});
+
+document.querySelector('.maximize-btn').addEventListener('click', function() {
+    // Your code to maximize the window
+});
